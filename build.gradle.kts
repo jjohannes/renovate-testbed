@@ -4,5 +4,5 @@ dependencies.constraints {
     api("org.apache.commons:commons-csv:1.7") {
         because("org.apache.commons.csv")
     }
-    api("commons-io:commons-io:2.16.1") { because("org.apache.commons.io") }
+    api("commons-io:commons-io:2.19.0") { because("org.apache.commons.io") }
 }
